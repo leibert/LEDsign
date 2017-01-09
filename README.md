@@ -6,3 +6,4 @@ Uses a Datum bc632 time clock display, which, to add to confusion, is really a m
 
 ![Bus Time](http://images.cwm.eml.cc/album/IOSstuff/bustime.jpg?variant=small)
 ![Weather FX](http://images.cwm.eml.cc/album/IOSstuff/weather.jpg?variant=small)
+![stack Overflow](http://lmsotfy.com/so.png)
