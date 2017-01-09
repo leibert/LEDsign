@@ -1,5 +1,8 @@
+Sequence of serial commands to the bc632d controlelr from when I used this at WPI to advertise upcoming movies in the projection booth.
+(http://lnl.wpi.edu/pages/projection.html)
+
 ECHO
-ADDR xý
+ADDR xÃ½
 EVENT O
 MASTER 0
 SOURCE 1 9
